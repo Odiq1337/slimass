@@ -5,7 +5,7 @@ def param_check():
 	try:
 		a = sys.argv[1]
 	except IndexError:
-		print("Usage python2 slim.py file.txt")
+		print("Usage python2 wms.py file.txt")
 		os.sys.exit()
 
 def file_check():
@@ -17,10 +17,10 @@ def file_check():
 
 def about():
 	os.system("clear")
-	print('  \033[1;31m  / _ \ ')
-	print('  \_\(_)/_/')
-	print('   _//"\\\_')
-	print('    /   \  \033[1;37mSliMass..\n')
+	print('  \033[1;31m  __      __ __  __ ')
+	print('   \ \    / /|  \/  |')
+	print('    \ \/\/ / | |\/| |')
+	print('     \_/\_/  |_|  |_|033[1;37mSliMass..\n')
 
 
 if __name__ == "__main__":
