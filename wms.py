@@ -20,7 +20,7 @@ def about():
 	print('  \033[1;31m  __      __ __  __ ')
 	print('   \ \    / /|  \/  |')
 	print('    \ \/\/ / | |\/| |')
-	print('     \_/\_/  |_|  |_|033[1;37mSliMass..\n')
+	print('     \_/\_/  |_|  |_|033[1;37mSlimass..\n')
 
 
 if __name__ == "__main__":
